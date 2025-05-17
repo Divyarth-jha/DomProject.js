@@ -1,0 +1,11 @@
+*{
+    height: 100%;
+    width: 100%;
+    background: #000;
+}
+
+h1{
+    color: rgb(27, 117, 195);
+    font-size:70px; 
+    height: 400px;
+}
